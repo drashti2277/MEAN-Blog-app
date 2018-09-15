@@ -1,0 +1,28 @@
+{
+  "name": "mean-blog-app",
+  "version": "1.0.0",
+  "description": "Mean stack app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Mean",
+    "stack",
+    "angular",
+    "2",
+    "application"
+  ],
+  "author": "drashti solanki",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.12",
+    "rxjs": "^6.3.2",
+    "rxjs-compat": "^6.3.1"
+  }
+}
